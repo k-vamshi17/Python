@@ -1,0 +1,53 @@
+=========================================================================
+🚀 Python Learning Roadmap Based on Your Folder Structure
+=========================================================================
+🔰 Step 1: Python Basics
+=========================================================================
+FIRST DAY – Setup Python, write your first program.
+DATA TYPES – Learn int, float, string, list, tuple, dict, etc.
+TYPE CASTING TECH – Convert data types (int() to str(), etc.).
+DATA REPRESENTATION – Understand binary, octal, hex, and decimal systems.
+DATA READ – Read user input and files.4
+=========================================================================
+🔥 Step 2: Control Flow & Functions
+=========================================================================
+FLOW CONTROLS – if-else, for, while, break, continue.
+LOOPS – Deep dive into for and while loops.
+TERNARY OPERATOR – Short-hand if-else.
+FUNCTIONS – Writing reusable functions.
+ANONYMOUS FUNS (Lambda Functions) – One-liner functions.
+=========================================================================
+🔥 Step 3: Advanced Data Handling
+=========================================================================
+COMPREHENSION – List, Dict, Set comprehensions.
+ITERATORS – iter(), next(), __iter__().
+GENERATORS – yield and generator functions.
+EXCEPTIONS – Handling runtime errors with try-except.
+STRING HANDLING – Manipulating strings (replace(), split(), etc.).
+FILES – Reading & writing files.
+=========================================================================
+🔥 Step 4: Object-Oriented Programming (OOP)
+=========================================================================
+OOPS – Classes, Objects, Methods, Inheritance.
+MUTABLE-IMMUTABLE – Difference between mutable & immutable objects.
+=========================================================================
+🔥 Step 5: Modules & Packages
+=========================================================================
+MODULES – Importing and using Python modules.
+OS MODULES – Interacting with the operating system.
+PACKAGES – Creating and using Python packages.
+=========================================================================
+🔥 Step 6: Decorators & Advanced Concepts
+=========================================================================
+DECORATOR – Functions modifying other functions.
+FEATURES – New features of Python.
+DISP DATA – Displaying data in a structured format.
+=========================================================================
+🚀 Step 7: Real-World Applications
+=========================================================================
+REG EXPR (Regular Expressions) – Pattern matching.
+NETWORKS – Basic networking concepts in Python.
+PYTHON-MYSQL & PYTHON-ORACLE – Database connectivity.
+REAL TIME APPS – Building real-world projects.
+THREADS – Multithreading and parallel programming.
+TRANSFER FLOW – Understanding data flow between functions.
