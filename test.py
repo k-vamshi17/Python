@@ -18,3 +18,14 @@
 # edges=[[0,1],[1,2],[2,3]]
 # print_adjaceny_list(V,edges)
 
+V = 3
+edges = [[0,1],[1,2],[2,3]]
+adj_list=[]
+for i in range(V):
+    adj_list.append([])
+for edge in edges:
+    from_node = edge[0]
+    to_node = edge[1]
+    adj_list[from_node].append(to_node)
+for i in range(V):
+    print(i, "->", *adj_list[i])
